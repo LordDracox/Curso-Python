@@ -1,5 +1,5 @@
 objetivo = int(input("Escoge un numero: "))
-epsilon = 0.0001
+epsilon = 0.0001 #cuanto más 0 pongamos más tardará en dar la respuesta
 paso = epsilon**2
 respuesta = 0.0 
 
