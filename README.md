@@ -1,2 +1,2 @@
 # Curso-Python
- Curso de python y  con git y github
+ Curso de python y usando  git y github
